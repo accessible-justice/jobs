@@ -112,7 +112,7 @@ You'll be hands-on in feature design and delivery, iterating quickly alongside t
 
 We evaluate candidates through a short engineering exercise — not algorithm puzzles, but real product engineering problems. Expect 2–4 hours.
 
-👉 **[查看评估题目 / View Eval](https://github.com/rayhu/eng-eval)**
+👉 **[查看评估题目 / View Eval](https://github.com/accessible-justice/eng-eval)**
 
 请完成 Issue 1，其余根据时间和兴趣选择。通过 PR 提交，PR 描述里告诉我们你的思路。
 
@@ -122,8 +122,8 @@ Complete Issue 1, then choose from the rest. Submit via pull request — use the
 
 ### 申请 / Apply
 
-在 [eng-eval](https://github.com/rayhu/eng-eval) 仓库开一个 PR 即可开始。
+在 [eng-eval](https://github.com/accessible-justice/eng-eval) 仓库开一个 PR 即可开始。
 我们承诺在收到 PR 后 **5 个工作日内**给出回复。
 
-Open a PR in the [eng-eval](https://github.com/rayhu/eng-eval) repo to get started.
+Open a PR in the [eng-eval](https://github.com/accessible-justice/eng-eval) repo to get started.
 We commit to responding within **5 business days** of receiving your submission.
