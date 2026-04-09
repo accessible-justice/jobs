@@ -16,7 +16,7 @@ Our team is small, moves quickly, and takes the mission seriously.
 
 ## Software Engineer (Full-Stack / Backend)
 
-**Remote · TypeScript + Node.js**
+**Remote · TypeScript + Node.js + Vue.js**
 
 ---
 
@@ -44,7 +44,7 @@ You'll be hands-on in feature design and delivery, iterating quickly alongside t
 
 **中文**
 
-- 快速、可靠地交付面向用户的功能
+- 快速、可靠地交付面向用户的界面和功能
 - 设计并实现清晰、稳健的 REST API 接口
 - 在快速变化的产品节奏下保持代码结构清晰
 - 主动发现并解决用户体验或系统层面的问题
