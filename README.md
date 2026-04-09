@@ -3,7 +3,7 @@
 We build technology that makes justice faster and fairer — for everyone.
 Our team is small, moves quickly, and takes the mission seriously.
 
-我们构建让司法更快、更公平的技术产品。
+我们构建让司法程序更快、更公平的技术产品。
 团队精小、节奏快、使命感强。
 
 ---
@@ -23,7 +23,7 @@ Our team is small, moves quickly, and takes the mission seriously.
 ### 关于我们 / About Us
 
 Accessible Justice 致力于消除人们获得法律帮助的壁垒。
-我们相信技术可以让司法变得更及时、更公平——无论用户的背景或资源如何。
+我们相信技术可以让司法程序变得更及时、更公平——无论用户的背景或资源如何。
 
 Accessible Justice is removing barriers between people and legal help.
 We believe technology can make justice more timely and more equitable — regardless of a user's background or resources.
@@ -66,7 +66,8 @@ You'll be hands-on in feature design and delivery, iterating quickly alongside t
 
 **中文**
 
-- 3 年以上 TypeScript / Node.js 工程经验
+- 3 年左右的 TypeScript / Node.js 工程经验
+- 具有与AI深度合作的能力和经验
 - 能在快速迭代的节奏中稳定交付
 - 重视公平性：在技术决策中考虑可及性与包容性
 - 代码整洁，有分层架构意识
@@ -87,7 +88,7 @@ You'll be hands-on in feature design and delivery, iterating quickly alongside t
 ### 加分项 / Nice to Have
 
 - 有 legal tech、civic tech 或社会影响类产品的经验
-- 了解无障碍标准（WCAG）或多语言产品开发经验
+- 具有多语言产品开发经验
 - 有独立产品或开源项目经历
 
 ---
@@ -123,7 +124,7 @@ Complete Issue 1, then choose from the rest. Submit via pull request — use the
 ### 申请 / Apply
 
 在 [eng-eval](https://github.com/accessible-justice/eng-eval) 仓库开一个 PR 即可开始。
-我们承诺在收到 PR 后 **5 个工作日内**给出回复。
+我们承诺在收到 PR 后 **3 个工作日内**给出回复。
 
 Open a PR in the [eng-eval](https://github.com/accessible-justice/eng-eval) repo to get started.
 We commit to responding within **5 business days** of receiving your submission.
